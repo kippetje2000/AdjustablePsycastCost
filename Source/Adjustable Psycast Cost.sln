@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adjustable Psycast Cost", "Adjustable Psycast Cost\Adjustable Psycast Cost.csproj", "{703A57A6-2F6C-4967-AB51-D9E8CFFB5BED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adjustable Psycast Cost", "Adjustable Psycast Cost.csproj", "{703A57A6-2F6C-4967-AB51-D9E8CFFB5BED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AEFA3DEE-5B8B-415C-9F8E-3FA24BAE0720}
+		SolutionGuid = {8D6EC9E0-7F8E-4AFA-B3C5-5335972E344B}
 	EndGlobalSection
 EndGlobal

@@ -14,3 +14,12 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast C
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\Source\obj\Debug\Adjustable Psycast Cost.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\Source\obj\Debug\Adjustable Psycast Cost.pdb
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\Source\obj\Debug\Adjustable Psycast Cost.csproj.CopyComplete
+G:\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\1.4\Adjustable Psycast Cost.dll
+G:\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\1.4\Adjustable Psycast Cost.pdb
+G:\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\Source\obj\Debug\Adjustable Psycast Cost.csproj.AssemblyReference.cache
+G:\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\Source\obj\Debug\Adjustable Psycast Cost.csproj.CoreCompileInputs.cache
+G:\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\Source\obj\Debug\Adjustable Psycast Cost.csproj.CopyComplete
+G:\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\Source\obj\Debug\Adjustable Psycast Cost.dll
+G:\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\Source\obj\Debug\Adjustable Psycast Cost.pdb
+G:\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\1.4\Assemblies\Adjustable Psycast Cost.dll
+G:\Steam\steamapps\common\RimWorld\Mods\Adjustable Psycast Cost\1.4\Assemblies\Adjustable Psycast Cost.pdb
